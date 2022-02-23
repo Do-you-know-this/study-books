@@ -1,5 +1,10 @@
 # 📚 study-books
 
+### 현재 읽고 있는 책 
+|[1일 1로그 100일 완성 IT 지식](https://github.com/Do-you-know-this/study-books/tree/master/1%EC%9D%BC_1%EB%A1%9C%EA%B7%B8_100%EC%9D%BC_%EC%99%84%EC%84%B1_IT_%EC%A7%80%EC%8B%9D)|
+|---|
+|[<img src="https://user-images.githubusercontent.com/39696812/155275874-6b05fd93-4153-4af0-8b0d-8e3fad90d0dc.png" width="200px">](http://image.yes24.com/goods/105803863/XL)|
+
 ### 커밋 규칙
 먼저 커밋 전 해당 책 이슈가 만들어져 있는지 확인해주세요
 
